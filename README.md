@@ -1,4 +1,4 @@
-# 🛡️ AI Data Policy Compliance Agent
+🛡️ AI Data Policy Compliance Agent
 
 ## 📌 Overview
 
